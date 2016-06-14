@@ -1,2 +1,3 @@
 # hello-world
-My play repository
+
+Playing with GitHub to learn 'buttonology'
